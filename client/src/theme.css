@@ -1,0 +1,11 @@
+/* tweakcn theme — gas-india: pastel Gen-Z */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap');
+:root {
+  --background: 300 60% 98%; --foreground: 280 25% 14%;
+  --primary: 275 70% 55%; --primary-foreground: 0 0% 100%;
+  --accent: 330 80% 92%; --accent-foreground: 320 50% 30%;
+  --card: 0 0% 100%; --muted: 280 30% 93%;
+  --border: 280 20% 87%; --radius: 1.25rem;
+  --font-sans: 'Inter', 'Noto Sans Devanagari', system-ui, sans-serif;
+}
+.dark { --background: 280 25% 9%; --foreground: 0 0% 96%; --card: 280 20% 13%; --muted: 280 15% 17%; --border: 280 15% 24%; }
